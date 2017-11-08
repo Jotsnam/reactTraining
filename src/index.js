@@ -19,5 +19,5 @@ document.getElementById('root'))
 
 
 // ReactDOM.render(<App />, document.getElementById('root1'));
-// ReactDOM.render(<Welcome name = "Dikshita" />,document.getElementById('root'));
-// ReactDOM.render(<Next />,document.getElementById('root2'));
+ReactDOM.render(<Welcome name = "Jotsna" />,document.getElementById('root1'));
+ReactDOM.render(<Next />,document.getElementById('root2'));

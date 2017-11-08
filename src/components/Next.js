@@ -5,7 +5,10 @@ import Welcome from './Welcome'
 class Next extends Component{
     render(){
         return(
-            <Welcome.name />
+            <div>
+            <h3>Welcome</h3>
+            <Welcome name = "Duplicate"/>
+            </div>
         );
     }
 }
